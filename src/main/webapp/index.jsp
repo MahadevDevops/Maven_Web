@@ -1,7 +1,5 @@
 <html>
 <body>
-<h2>Hello Devops !!!!</h2>
-  <h3> New Feature added<h3>
-
+  <h1>Hello Ansible  Devops !!!!</h1>
 </body>
 </html>
